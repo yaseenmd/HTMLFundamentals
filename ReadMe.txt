@@ -10,3 +10,5 @@ Learning HTML fundamentals from pluralsight and practise html files will be comm
 4. adding link tag with reference link to css style sheet
 and change the body content with class=lead to apply style to content in body
 
+5. adding javascript
+
