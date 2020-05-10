@@ -19,3 +19,6 @@ and change the body content with class=lead to apply style to content in body
      images
      links
 
+7. Adding id and name attribute to body element. both id and name should be unique. 
+we can use this id and name for apply a style to specfic element and used in javascript prgrammes as weell
+
