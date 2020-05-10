@@ -12,3 +12,10 @@ and change the body content with class=lead to apply style to content in body
 
 5. adding javascript
 
+6. Inside body we can have 
+     Text
+     List
+     Tables
+     images
+     links
+
