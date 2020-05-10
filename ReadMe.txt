@@ -7,3 +7,6 @@ Learning HTML fundamentals from pluralsight and practise html files will be comm
 
 3. adding meta data to the html file with attributes as name and content. this meta doesnt require closing tag like other elements
 
+4. adding link tag with reference link to css style sheet
+and change the body content with class=lead to apply style to content in body
+
