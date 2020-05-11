@@ -36,3 +36,8 @@ Module 2: Displaying Text
     you can <p> tag elements in <div>
     you can <div> tag inside <div>
     Adding div tag , you wont see much differene in html rendering. but it help in segrate the set of elements while applyig style
+
+2.4 Line breaks, whitespace, &nbsp, &gt , &lt , &copy
+   &nbsp --> this tells the browser the space between two words should not be broken into seprate Line
+   &gt, &lt --> introduce greater than and lower than symbole in the browser
+   &copy --> shows copywright symbol on the browser
