@@ -27,3 +27,5 @@ we can use this id and name for apply a style to specfic element and used in jav
 Module 2: Displaying Text
 
 2.1 i have added heading tage h1 and h2. in browser, it shows different in size
+
+2.2 Difference between heading, paragraph tag, text with out paragraph
