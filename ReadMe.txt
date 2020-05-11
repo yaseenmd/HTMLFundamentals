@@ -22,3 +22,8 @@ and change the body content with class=lead to apply style to content in body
 7. Adding id and name attribute to body element. both id and name should be unique. 
 we can use this id and name for apply a style to specfic element and used in javascript prgrammes as weell
 
+
+
+Module 2: Displaying Text
+
+2.1 i have added heading tage h1 and h2. in browser, it shows different in size
