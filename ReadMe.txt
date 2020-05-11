@@ -29,3 +29,10 @@ Module 2: Displaying Text
 2.1 i have added heading tage h1 and h2. in browser, it shows different in size
 
 2.2 Difference between heading, paragraph tag, text with out paragraph
+
+2.3 Block elements <div>
+    <div> tag is used to combine few elements into one segment. 
+    web page might have <div id= header> and <div id=body>. so this means header div contains few elements part of header. 
+    you can <p> tag elements in <div>
+    you can <div> tag inside <div>
+    Adding div tag , you wont see much differene in html rendering. but it help in segrate the set of elements while applyig style
