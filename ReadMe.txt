@@ -41,3 +41,10 @@ Module 2: Displaying Text
    &nbsp --> this tells the browser the space between two words should not be broken into seprate Line
    &gt, &lt --> introduce greater than and lower than symbole in the browser
    &copy --> shows copywright symbol on the browser
+
+2.5 Reference text:
+     <blockquote> --> This will display the text in block letter
+     <q> - This will display text with added double quatation
+     <cite> - This will display text in different style.
+     <abbr> - This will display text as it is. when you mouseover to text, it will display the title of the abbrevation.
+     
