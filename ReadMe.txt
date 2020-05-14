@@ -99,5 +99,11 @@ Module 2: Displaying Text
 
         <a href="./contents/recepies.html#demo"> receipes demo </a>
 
-        
+  4.2 Link Attributes
+     There are many attributes available to <a>  tag elemnet
+     one of them is "target"
+
+     <a href="www.youtube.com" target="_blank"> youtube </a>
+
+     above code will open youtube in seprate window or tab
      
