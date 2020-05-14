@@ -106,4 +106,18 @@ Module 2: Displaying Text
      <a href="www.youtube.com" target="_blank"> youtube </a>
 
      above code will open youtube in seprate window or tab
+
+5. Table
+      We use HTML table to display data not for display content of page or any other things
+There are 4 basic things for table
+ 1. <caption> TableName </caption>
+ 2. <thead> </thead> ==> Headers of the table
+ 3. <Tbody></tBody> ==> Body of the table
+ 4. <tfoot></tfoot> ==> footer of the table to display sum or aggregate value.
+
+ Now for every table has rows and columns 
+  <tr> </tr> ==> Table row
+  <th> </th> ==> head of the table. usually first row in the table
+  <td> </td> ==> is for table data in the cell.
+   
      
