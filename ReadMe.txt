@@ -88,6 +88,16 @@ Module 2: Displaying Text
 
       For Absolute link:
       <a href ="http://www.pluralsight.com"> pluralsight </a>
-      
-       
+
+  4.1 Linking to Targets:
+        Linking target means, if you a click a link it will take to you to specfic section within document.   
+        we need to use # symbol, to specify the target.
+
+        <a href="#demo"> Demo </a>
+
+        above code will navigate to section which is have id as demo.
+
+        <a href="./contents/recepies.html#demo"> receipes demo </a>
+
+        
      
