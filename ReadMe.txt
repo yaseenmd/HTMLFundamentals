@@ -47,4 +47,47 @@ Module 2: Displaying Text
      <q> - This will display text with added double quatation
      <cite> - This will display text in different style.
      <abbr> - This will display text as it is. when you mouseover to text, it will display the title of the abbrevation.
+
+2.6 Semantic Tags
+
+    From HTML 5 onwards this semantic elements is introducted. with help of semantic tag we can manage elements easily.
+     Like in a web page we are having header and footer and with older HTML we use <div> tags for those. 
+     but in HTML 5, there is semantic tag available as <header> , <footer> and <section>
+
+
+
+3. List in HTML
+      There are 3 types of list in HTML
+       * Unordered List
+       * ordered List
+       * Mordern List
+
+ 3.1 Unordered List:
+      <ul> 
+      <li> </li>
+      <li> <li>
+      </ul>
+
+      above is basic mark up syntax for unordered list. It is shows with bullet ordered
+
+3.2 Ordered List
+  <ol> 
+  <li> </li>
+  <li  </li>
+  </ol>
+
+  above is basic markup syntax for ordered list 
+
+4. Linking in HTML
+    There are two basic linking 
+      1. Relative link ==> a html which is available in site itself. like pointing to another html iniside the project
+      2. Absolute link ==> a link which point to external website
+
+      For Relative link:
+      <a href="./content/abc.html"> ABC </a>
+
+      For Absolute link:
+      <a href ="http://www.pluralsight.com"> pluralsight </a>
+      
+       
      
