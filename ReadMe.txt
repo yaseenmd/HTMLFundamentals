@@ -123,5 +123,7 @@ There are 4 basic things for table
 6. Images
  To insert images on webpages 
 
- <img src="dhonix.jpg">  
+ <img src="dhonix.jpg"> 
+
+ ==Completed ====== 
      
