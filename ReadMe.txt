@@ -119,5 +119,9 @@ There are 4 basic things for table
   <tr> </tr> ==> Table row
   <th> </th> ==> head of the table. usually first row in the table
   <td> </td> ==> is for table data in the cell.
-   
+
+6. Images
+ To insert images on webpages 
+
+ <img src="dhonix.jpg">  
      
